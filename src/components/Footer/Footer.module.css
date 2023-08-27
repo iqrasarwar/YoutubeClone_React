@@ -1,0 +1,35 @@
+.copyright {
+  color: #909090;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.5rem;
+}
+
+.copyright div {
+  padding: 0px;
+  margin: 0px;
+}
+
+.guideLinks {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-block: 10px;
+}
+
+.guideLinks a {
+  text-decoration: none;
+  color: #606060 !important;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1.7rem;
+}
+
+.footerLinks div {
+  padding: 6px 14px;
+  margin-left: 6px;
+  width: 180px;
+  text-align: left;
+}
