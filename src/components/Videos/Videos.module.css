@@ -1,0 +1,25 @@
+.videos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #f9f9f9;
+}
+
+.videos::-webkit-scrollbar {
+  width: 5px;
+}
+
+.videos::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.videos::-webkit-scrollbar-thumb {
+  background-color: #f8f9fa;
+  border-radius: 15px;
+}
+
+.videos::-webkit-scrollbar-thumb:hover {
+  background: #6c757d;
+}

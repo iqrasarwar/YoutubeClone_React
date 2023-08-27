@@ -1,0 +1,15 @@
+.navBar {
+  max-width: 100vw;
+}
+
+.positionBody {
+  position: absolute;
+  right: 0px;
+  left: 12%;
+  margin-left: 18px;
+  width: auto;
+}
+
+.videoBody {
+  background-color: #f8f9fa;
+}

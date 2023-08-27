@@ -1,0 +1,32 @@
+.navBarFixed {
+  position: fixed;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  left: 12%;
+  min-height: 71px;
+  min-width: 88%;
+  background-color: white;
+}
+
+.positionBody {
+  position: absolute;
+  top: 60px;
+  right: 0px;
+  left: 12%;
+  margin-left: 18px;
+  width: auto;
+}
+
+.hr {
+  position: fixed;
+  z-index: 2000;
+  margin: 0;
+  margin-top: 10px;
+  left: 12%;
+  margin-left: 18px;
+  width: auto;
+}

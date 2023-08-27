@@ -1,0 +1,10 @@
+.container {
+  padding: 10px;
+}
+
+.video_Details {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}

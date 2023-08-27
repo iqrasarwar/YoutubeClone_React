@@ -1,0 +1,25 @@
+.action {
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  width: 194px;
+  height: 40px;
+  gap: 28px;
+  align-items: center;
+  padding: 6px 0px 6px 14px;
+  margin: 24px 10px;
+  border-radius: 4px;
+}
+
+.action:hover {
+  background-color: #ededed;
+}
+.action p {
+  font-size: 16px;
+  margin: 0;
+}
+
+.actionImg {
+  max-height: 30px;
+  max-width: 24px;
+}

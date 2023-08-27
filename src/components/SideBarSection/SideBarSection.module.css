@@ -1,0 +1,30 @@
+.sidebar {
+  width: 12%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  position: fixed;
+  top: 65px;
+}
+
+.logos {
+  display: flex;
+  position: fixed;
+  box-sizing: border-box;
+  flex-direction: row;
+  width: 12%;
+  gap: 18px;
+  align-items: center;
+  padding: 0px 20px;
+  min-height: 71px;
+  background-color: #fff;
+  z-index: 2;
+}
+
+.collapsedBar {
+  width: 0%;
+  display: none;
+}
+
+.menuIcon {
+  margin-right: 12px;
+}
