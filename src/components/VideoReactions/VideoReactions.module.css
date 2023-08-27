@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.action {
+  padding: 10px 14px;
+  margin: 5px;
+  background-color: #f0efef;
+  border-radius: 8px;
+}
+
+.action:hover {
+  background-color: #e3e3e3;
+}
+
+.count {
+  line-height: 1.9rem;
+  font-weight: 400;
+}
+
+.videoActions img {
+  width: 20px;
+  margin-right: 5px;
+}
+
+.subscribe_btn {
+  background-color: rgb(223, 4, 4);
+  color: white;
+  border-radius: 6px;
+  padding: 5px;
+  border: none;
+  outline: none;
+}

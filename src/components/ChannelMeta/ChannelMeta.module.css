@@ -1,0 +1,12 @@
+.card-body {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  gap: 20px;
+}
+
+.channel-pic {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
