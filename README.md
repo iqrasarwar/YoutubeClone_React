@@ -10,7 +10,7 @@
 https://drive.google.com/file/d/1l6oImLRox0qnincQuHZFJp7S8xBU85Tu/view?usp=sharing
 
 ## Deployed at 
-https://64eb6e918c8014775b2c03dc--storied-bavarois-cdc084.netlify.app/
+https://storied-bavarois-cdc084.netlify.app/
 
 ## Api link 
 https://developers.google.com/youtube/v3
