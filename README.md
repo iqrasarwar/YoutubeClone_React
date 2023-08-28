@@ -16,9 +16,9 @@ For local setup, you need youtube data api key and client key.
 
 - Clone the repositry.
 - Make a local .env file in root of your project and set following variables.
-  ```
-REACT_APP_YOUTUBE_DATA_API = 
+- ```dotenv
+REACT_APP_YOUTUBE_DATA_API =
 REACT_APP_YOUTUBE_CLIENT_API =
 ```
-- run ``` npm i ```
-- run ``` npm start ```
+- run ` npm i `
+- run ` npm start `
