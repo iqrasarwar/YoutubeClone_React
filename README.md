@@ -15,7 +15,7 @@ https://64eb6e918c8014775b2c03dc--storied-bavarois-cdc084.netlify.app/
 ## Api link 
 https://developers.google.com/youtube/v3
 
-## Loacl Setup
+## Local Setup
 For local setup, you need youtube data api key and client key. 
 
 - Clone the repositry.
